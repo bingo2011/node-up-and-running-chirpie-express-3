@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  each tweet in tweets
+    .tweet
+      include partials/tweet
+  form(action='/send', method='post')
+    input(type='text', name='tweet')
+    input(type='submit', value='Tweet!')

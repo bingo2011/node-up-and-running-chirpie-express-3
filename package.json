@@ -1,0 +1,11 @@
+{
+  "name": "twitter",
+  "description": "twitter test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+	  "nodemon": "0.6.23",
+	  "jade" : "0.27.2"
+  }
+}
