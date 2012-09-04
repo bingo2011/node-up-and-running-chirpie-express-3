@@ -20,3 +20,8 @@ Usage
 Then browse to 
 
     http://localhost:8000
+
+Acknowledgements
+----------------
+
+Thanks to iotaweb for this: https://github.com/iotaweb/node-up-and-running-chirpie
